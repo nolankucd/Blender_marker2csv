@@ -5,7 +5,7 @@ import csv
 clip = bpy.data.movieclips[0]
 
 # The path of your output CSV file
-output_filepath = "/Users/kevinnolan/Desktop/"
+output_filepath = "/Users/$USERNAME/Desktop/"
 output_filename = clip.name+ \
                     "_"+str(bpy.data.scenes[0].frame_start)+ \
                     "_"+str(bpy.data.scenes[0].frame_end)+".csv"
