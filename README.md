@@ -18,8 +18,12 @@ Then you can use this to determine the rotation and scale of the tracking box.
 
     marker_name	time (s)    corner_1_x,	corner_1_y    corner_2_x    corner_2_y    corner_3_x    corner_3_y    corner_4_x    corner_4_y
 
-https://github.com/user-attachments/assets/4beb803e-a47e-4746-bbec-f4fad27d0929
-
-https://github.com/user-attachments/assets/349ad3c1-2887-451f-b007-5a7bcc47448e
-
 Corners are numbered counterclockwise from the bottom left.
+
+https://github.com/user-attachments/assets/bb5676a8-1ae8-44e0-9a12-9e6ac96db95d
+
+
+https://github.com/user-attachments/assets/df4a2371-0b07-4aaf-9717-8eba825cb029
+
+
+
